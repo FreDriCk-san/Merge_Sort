@@ -1,0 +1,11 @@
+D:\ЦФТ\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.deps.json
+D:\ЦФТ\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.json
+D:\ЦФТ\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.dev.json
+D:\ЦФТ\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.dll
+D:\ЦФТ\Sort\Sort\bin\Debug\netcoreapp2.1\Sort.pdb
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.csprojAssemblyReference.cache
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.csproj.CoreCompileInputs.cache
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfoInputs.cache
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfo.cs
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.dll
+D:\ЦФТ\Sort\Sort\obj\Debug\netcoreapp2.1\Sort.pdb

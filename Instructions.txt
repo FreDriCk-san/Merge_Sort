@@ -1,0 +1,48 @@
+							ENGLISH
+
+First of all, install ".NET SDK" on your PC. Use a link below.
+
+//------
+Link: https://www.microsoft.com/net/download
+
+//------
+
+All resources are in project folder (Sort/Sort/Resources). There you must store your file(s) [For example: "input.txt"].
+
+This program was made for OS Windows. For "simple" start, just execute the .bat file "Sort.bat".
+Or, if you have any problem with it, just start cmd and do as on [Example 1].
+
+//------------Example 1-------------
+cd (Path to the project folder...)
+cd Sort/Sort
+dotnet build
+cd bin/Debug/netcoreapp2.1
+dotnet Sort.dll
+//----------------------------------
+
+
+
+
+							РУССКИЙ
+
+Во-первых, установите ".NET SDK" на свой ПК. Используйте ссылку, приведённую ниже.
+
+//------
+Ссылка: https://www.microsoft.com/net/download
+
+//------
+
+Все ресурсы хранятся в папке проекта (Sort/Sort/Resources). Там же Вы и должны хранить свои файлы [К примеру: "входные_данные.txt"]
+
+Эта программа была сделана для ОС Windows. Для "простого" старта, запустите .bat файл "Sort.bat".
+Или, если возникли какие-то трудности с запуском, откройте командную строку и введите следующие команды [Пример 1].
+
+//------------Пример 1-------------
+cd (Путь к папке проекта...)
+cd Sort/Sort
+dotnet build
+cd bin/Debug/netcoreapp2.1
+dotnet Sort.dll
+//---------------------------------
+
+
